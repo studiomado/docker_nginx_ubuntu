@@ -1,2 +1,5 @@
-# docker_nginx_ubuntu
-Ubuntu with nginx
+# Docker nginx with Ubuntu
+
+Docker container with Ubuntu 16.04 and nginx
+
+[Docker container](https://hub.docker.com/r/studiomado/nginx/)
